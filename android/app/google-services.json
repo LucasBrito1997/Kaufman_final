@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "901814978996",
+    "firebase_url": "https://orosopio.firebaseio.com",
+    "project_id": "orosopio",
+    "storage_bucket": "orosopio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901814978996:android:47970cf395997d4dea4ae1",
+        "android_client_info": {
+          "package_name": "com.kaufman.oroscopio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901814978996-7p51lecs5jonh8ph17dc7pn4poucoluf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwZQhmQQoWb3AK0-BbFhVzKsB_Vr-1Z6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901814978996-7p51lecs5jonh8ph17dc7pn4poucoluf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
